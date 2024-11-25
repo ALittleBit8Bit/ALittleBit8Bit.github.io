@@ -1,3 +1,2 @@
-
-[Cursor Game](https://github.com/ALittleBit8Bit/Cursor-Game)
-[Pie Recipe](https://alittlebit8bit.github.io/recipe)
+[Cursor Game](/https://alittlebit8bit.itch.io/cursor-game)
+[Rock Paper Scissors Game](https://alittlebit8bit.itch.io/rock-paper-scissors-the-video-game)
